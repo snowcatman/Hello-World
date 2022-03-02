@@ -30,4 +30,4 @@ Just a simple Hellow World
 
 ## Authors
 
-* **Shawn Quintal AKA-Snowcatman** - *My first Git Python Code* - [Hello World](Note:change me/update to This hello worlk git link)
+* **Shawn Quintal AKA-Snowcatman** - *My first Hello-world Git Python Code* - [Hello World](https://github.com/snowcatman/Hello-World.git)
