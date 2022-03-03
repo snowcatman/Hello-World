@@ -1,10 +1,13 @@
-# Hello Would Example Python Code
+# Hello World Example Python Code
 
 Begining middle and an end example... 3 line to think about...
 
 ### Prerequisites
 
-An 8bit notepad and install python from python.org
+An 8bit Notepad Editor and Install python from python.org
+
+Like: windows notepad or notepad++
+And Python 3
 
 ## Running the file / testing it out
 
@@ -30,4 +33,4 @@ Just a simple Hellow World
 
 ## Authors
 
-* **Shawn Quintal AKA-Snowcatman** - *My first Git Python Code* - [Hello World](Note:change me/update to This hello worlk git link)
+* **Shawn Quintal AKA Snowcatman** - *My first Hello-world Git Python Code* - [Hello World](https://github.com/snowcatman/Hello-World.git)
